@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Database
+db.sqlite3
+
+# Media and uploaded files
+/media/
+
+# Static files collected with `collectstatic`
+/static/
+
+# Local development settings
+# Be careful with this. It's often better to use environment variables for keys.
+# If you have a separate file for local settings, you should ignore it.
+# e.g., myproject/local_settings.py
